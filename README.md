@@ -20,7 +20,7 @@
 [![PenguinMod](https://img.shields.io/badge/PenguinMod-00AEEF?style=for-the-badge&logo=scratch&logoColor=white)](https://penguinmod.com/profile?user=danteelgamer_yt)
 [![FNF Optimized Web](https://img.shields.io/badge/FNF%20Optimized%20Web-FF69B4?style=for-the-badge&logo=fridaynightfunkin&logoColor=white)](https://dante-el-gamer.github.io/FNF-optimized-web/)
 [![Merch (Streamlabs)](https://img.shields.io/badge/Merch-00FF99?style=for-the-badge&logo=streamlabs&logoColor=white)](https://streamlabs.com/danteelgamer_/merch)
-[![Revolt](https://img.shields.io/badge/Revolt-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://rvlt.gg/Zqy5A7Gz)
+[![Revolt](https://img.shields.io/badge/Revolt-00AEEF?style=for-the-badge&logo=revolt&logoColor=white)](https://rvlt.gg/Zqy5A7Gz)
 [![Mi sitio web](https://img.shields.io/badge/Mi%20sitio%20web-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white)](https://dante-el-gamer.my.canva.site/redes-de-dante)
 
 ---
