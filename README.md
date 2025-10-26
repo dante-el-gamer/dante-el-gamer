@@ -1,4 +1,4 @@
-![Banner](banner.png)
+![Banner](banner-v2.png)
 
 <h1 align="center">👋 Hey! Soy <span style="color:#FFD700;">Dante el Gamer</span> 🟡</h1>
 
