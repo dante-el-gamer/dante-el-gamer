@@ -17,7 +17,6 @@
 [![Roblox](https://img.shields.io/badge/Roblox-000000?style=for-the-badge&logo=roblox&logoColor=white)](https://www.roblox.com/es/users/1250726176/profile)
 [![Itch.io](https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white)](https://itch.io/profile/danteelgamer-yt)
 [![Newgrounds](https://img.shields.io/badge/Newgrounds-FFCC00?style=for-the-badge&logo=newgrounds&logoColor=black)](https://danteelgameyt.newgrounds.com/)
-[![PenguinMod](https://img.shields.io/badge/PenguinMod-00AEEF?style=for-the-badge&logo=scratch&logoColor=white)](https://penguinmod.com/profile?user=danteelgamer_yt)
 [![FNF Optimized Web](https://img.shields.io/badge/FNF%20Optimized%20Web-FF69B4?style=for-the-badge&logo=fridaynightfunkin&logoColor=white)](https://dante-el-gamer.github.io/FNF-optimized-web/)
 [![Merch (Streamlabs)](https://img.shields.io/badge/Merch-00FF99?style=for-the-badge&logo=streamlabs&logoColor=white)](https://streamlabs.com/danteelgamer_/merch)
 [![Revolt](https://img.shields.io/badge/Revolt-00AEEF?style=for-the-badge&logo=revolt&logoColor=white)](https://rvlt.gg/Zqy5A7Gz)
@@ -41,14 +40,6 @@
 
 ---
 
-### 📊 Stats del bro 😎
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dante-el-gamer&show_icons=true&theme=tokyonight" height="150">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dante-el-gamer&layout=compact&theme=tokyonight" height="150">
-</p>
-
----
-
-✨ *Gracias por pasarte, master del código y la diversión 😎*  
-🧩 *Nos vemos en el YouTube, el FNF o en charla en twich 🕹️*
+✨ *Gracias por pasarte, master del código y la diversión*  
+🧩 *Nos vemos en el YouTube o en directo en twich*
