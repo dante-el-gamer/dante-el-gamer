@@ -36,10 +36,4 @@
 
 💻 Fedora Linux 🐧  
 🛠️ JSON, HTML, Lua, Haxe, Arduino, CSS, JS  
-🎮 TurboWarp, Roblox Studio, FNF Modding Tools, geodot, y más 
-
----
-
-
-✨ *Gracias por pasarte, master del código y la diversión*  
-🧩 *Nos vemos en el YouTube o en directo en twich*
+🎮 TurboWarp, Roblox Studio, FNF, y más 
