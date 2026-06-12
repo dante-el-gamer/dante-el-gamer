@@ -1,7 +1,7 @@
 ![Banner](banner-v2.png)
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=FFD700&center=true&vCenter=true&repeat=true&width=435&lines=Dante+el+Gamer+%F0%9F%9F%A1;Creador+de+contenido;Programador+autodidacta;Gamer+de+coraz%C3%B3n" alt="Typing SVG">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=FFD700&center=true&vCenter=true&repeat=true&width=435&lines=Dante+el+Gamer+%F0%9F%9F%A1;Creador+de+contenido;Programador;Gamer+de+coraz%C3%B3n" alt="Typing SVG">
 </p>
 
 <h1 align="center">👋 ¡Qué onda! Soy <span style="color:#FFD700;">Dante el Gamer</span> 🟡</h1>
