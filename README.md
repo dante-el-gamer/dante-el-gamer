@@ -28,14 +28,14 @@
 
 > 🎮 **Creador de contenido** | 💻 **Programador autodidacta** | 🕹️ **Gamer de corazón**
 
-Soy un pibe que ama **programar ideas locas**, crear **mods de juegos**, y romperla con **engines de Friday Night Funkin'** 🎶  
-También hago contenido pa' entretener y conectar con mi gente. Siempre buscando **mejorar, aprender algo nuevo y romperla con estilo gamer** 😎
+Soy un niño que le gusta **programar ideas**, crear **mods de juegos**, y crear **engines de Friday Night Funkin'** 🎶  
+También hago contenido para entretenerte y conectar con mi gente. Siempre buscando **mejorar, aprender algo nuevo** 😎
 
 ✨ **Datos random:**  
-- 💻 Vivo en **Fedora Linux** 🐧
-- 🧩 Programo en **JSON, HTML, Lua, Haxe, Arduino, CSS, JS, TurboWarp, Roblox Studio**
-- 🎯 Meta: crear cosas que inspiren y entretengan
-- 🧠 Autodidacta — aprendo haciendo, rompiendo, y arreglando
+- 💻 Uso **Fedora Linux** 🐧
+- 🧩 Programo en **JSON, HTML, Lua, Haxe, Arduino, CSS, JS, TurboWarp, Roblox Studio Y MÁS**
+- 🎯 Meta: no se que cosa poner aqui XD
+- 🧠 Aprendo haciendo, rompiendo, y arreglando
 
 ---
 
@@ -83,7 +83,7 @@ También hago contenido pa' entretener y conectar con mi gente. Siempre buscando
           <img src="https://img.shields.io/badge/▶️%20Jugar-FF69B4?style=for-the-badge">
         </a>
         <br>
-        Versión optimizada de Friday Night Funkin' para navegador
+        Versión Optimized Engine echa en una web
       </p>
     </td>
     <td width="50%">
@@ -129,7 +129,7 @@ También hago contenido pa' entretener y conectar con mi gente. Siempre buscando
 </p>
 
 <p align="center">
-  <b>¿Te gusta lo que hago?</b> Seguime en redes, mandate un mensaje, o contribuí a algún proyecto 🙌  
+  <b>¿Te gusta lo que hago?</b> Seguime en redes, mandame un mensaje cuando este en twitch y/o kick, o contribuye a algún proyecto 🙌  
   <br>
   <i>— Dante el Gamer 🟡</i>
 </p>
