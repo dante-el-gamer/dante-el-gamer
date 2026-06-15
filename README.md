@@ -115,14 +115,6 @@ También hago contenido para entretenerte y conectar con mi gente. Siempre busca
 
 ---
 
-### 🐍 Mi actividad
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/dante-el-gamer/dante-el-gamer/output/github-contribution-grid-snake-dark.svg" alt="Snake">
-</p>
-
----
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=dante-el-gamer&color=FFD700&style=flat-square&label=👀+Visitas" alt="Visitas">
 </p>
