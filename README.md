@@ -66,7 +66,6 @@ También hago contenido para entretenerte y conectar con mi gente. Siempre busca
   <img src="https://img.shields.io/badge/Haxe-EA8220?style=for-the-badge&logo=haxe&logoColor=white">
   <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white">
   <img src="https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white">
-  <img src="https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white">
   <img src="https://img.shields.io/badge/Roblox%20Studio-00A2FF?style=for-the-badge&logo=robloxstudio&logoColor=white">
 </p>
 
@@ -83,7 +82,7 @@ También hago contenido para entretenerte y conectar con mi gente. Siempre busca
           <img src="https://img.shields.io/badge/▶️%20Jugar-FF69B4?style=for-the-badge">
         </a>
         <br>
-        Versión Optimized Engine echa en una web
+        Versión de Optimized Engine echa en una web
       </p>
     </td>
     <td width="50%">
@@ -102,7 +101,7 @@ También hago contenido para entretenerte y conectar con mi gente. Siempre busca
 ### 📺 Últimos videos
 
 <!-- YOUTUBE:START -->
-<p align="center"><i>🎬 Cargando videos… (el workflow se activa después del primer push)</i></p>
+<p align="center"><i>🎬 Cargando videos…</i></p>
 <!-- YOUTUBE:END -->
 
 <p align="center">
