@@ -98,23 +98,6 @@ También hago contenido para entretenerte y conectar con mi gente. Siempre busca
 
 ---
 
-### 📺 Últimos videos
-
-<!-- YOUTUBE:START -->
-<p align="center"><i>🎬 Cargando videos…</i></p>
-<!-- YOUTUBE:END -->
-
-<p align="center">
-  <a href="https://www.youtube.com/@danteelgameryt?sub_confirmation=1">
-    <img src="https://img.shields.io/badge/📺%20Suscribite%20al%20canal-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
-  </a>
-  <a href="https://www.twitch.tv/danteelgamer_">
-    <img src="https://img.shields.io/badge/🔴%20Seguime%20en%20vivo-9146FF?style=for-the-badge&logo=twitch&logoColor=white">
-  </a>
-</p>
-
----
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=dante-el-gamer&color=FFD700&style=flat-square&label=👀+Visitas" alt="Visitas">
 </p>
