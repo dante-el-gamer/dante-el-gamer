@@ -82,15 +82,7 @@ También hago contenido para entretenerte y conectar con mi gente. Siempre busca
           <img src="https://img.shields.io/badge/▶️%20Jugar-FF69B4?style=for-the-badge">
         </a>
         <br>
-        Versión de Optimized Engine echa en una web
-      </p>
-    </td>
-    <td width="50%">
-      <h3 align="center">🎮 Mods & Engines</h3>
-      <p align="center">
-        <img src="https://img.shields.io/badge/🚧%20En%20desarrollo-FFD700?style=for-the-badge">
-        <br>
-        Mods de juegos, engines de FNF y experimentos
+        Versión de Optimized Engine hecha en una web
       </p>
     </td>
   </tr>
