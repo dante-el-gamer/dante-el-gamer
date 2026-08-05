@@ -1,10 +1,10 @@
 ![Banner](banner-v2.png)
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=FFD700&center=true&vCenter=true&repeat=true&width=435&lines=Dante+el+Gamer+%F0%9F%9F%A1;Creador+de+contenido;Programador;Gamer+de+coraz%C3%B3n" alt="Typing SVG">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=FFD700&center=true&vCenter=true&repeat=true&width=435&lines=IamDanteDev+%F0%9F%9F%A1;Creador+de+contenido;Programador;Gamer+de+coraz%C3%B3n" alt="Typing SVG">
 </p>
 
-<h1 align="center">👋 ¡Qué onda! Soy <span style="color:#FFD700;">Dante el Gamer</span> 🟡</h1>
+<h1 align="center">👋 ¡Qué onda! Soy <span style="color:#FFD700;">IamDanteDev</span> 🟡</h1>
 
 <p align="center">
   <a href="https://www.youtube.com/@danteelgameryt"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"></a>
@@ -17,7 +17,7 @@
   <a href="https://www.roblox.com/es/users/1250726176/profile"><img src="https://img.shields.io/badge/Roblox-000000?style=for-the-badge&logo=roblox&logoColor=white" alt="Roblox"></a>
   <a href="https://itch.io/profile/danteelgamer-yt"><img src="https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white" alt="Itch.io"></a>
   <a href="https://danteelgameyt.newgrounds.com/"><img src="https://img.shields.io/badge/Newgrounds-FFCC00?style=for-the-badge&logo=newgrounds&logoColor=black" alt="Newgrounds"></a>
-  <a href="https://dante-el-gamer.github.io/FNF-optimized-web/"><img src="https://img.shields.io/badge/FNF%20Optimized%20Web-FF69B4?style=for-the-badge&logoColor=white" alt="FNF Optimized Web"></a>
+  <a href="https://IamDanteDev.github.io/FNF-optimized-web/"><img src="https://img.shields.io/badge/FNF%20Optimized%20Web-FF69B4?style=for-the-badge&logoColor=white" alt="FNF Optimized Web"></a>
   <a href="https://streamlabs.com/danteelgamer_/merch"><img src="https://img.shields.io/badge/Merch-00FF99?style=for-the-badge&logo=streamlabs&logoColor=white" alt="Merch"></a>
   <a href="https://dante-el-gamer.my.canva.site/redes-de-dante"><img src="https://img.shields.io/badge/Mi%20sitio%20web-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Sitio web"></a>
 </p>
@@ -42,16 +42,16 @@ También hago contenido para entretenerte y conectar con mi gente. Siempre busca
 ### 📊 Mis stats de GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dante-el-gamer&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" height="170">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dante-el-gamer&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" height="170">
+  <img src="https://github-readme-stats.vercel.app/api?username=IamDanteDev&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" height="170">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IamDanteDev&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" height="170">
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dante-el-gamer&theme=radical&hide_border=true" alt="GitHub Streak" width="70%">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=IamDanteDev&theme=radical&hide_border=true" alt="GitHub Streak" width="70%">
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=dante-el-gamer&theme=radical&no-frame=true&margin-w=15&row=1" alt="Trophies" width="84%">
+  <img src="https://github-profile-trophy.vercel.app/?username=IamDanteDev&theme=radical&no-frame=true&margin-w=15&row=1" alt="Trophies" width="84%">
 </p>
 
 ---
@@ -78,7 +78,7 @@ También hago contenido para entretenerte y conectar con mi gente. Siempre busca
     <td width="50%">
       <h3 align="center">🎵 FNF Optimized Web</h3>
       <p align="center">
-        <a href="https://dante-el-gamer.github.io/FNF-optimized-web/" target="_blank">
+        <a href="https://IamDanteDev.github.io/FNF-optimized-web/" target="_blank">
           <img src="https://img.shields.io/badge/▶️%20Jugar-FF69B4?style=for-the-badge">
         </a>
         <br>
@@ -91,11 +91,11 @@ También hago contenido para entretenerte y conectar con mi gente. Siempre busca
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=dante-el-gamer&color=FFD700&style=flat-square&label=👀+Visitas" alt="Visitas">
+  <img src="https://komarev.com/ghpvc/?username=IamDanteDev&color=FFD700&style=flat-square&label=👀+Visitas" alt="Visitas">
 </p>
 
 <p align="center">
   <b>¿Te gusta lo que hago?</b> Seguime en redes, mandame un mensaje cuando este en twitch y/o kick, o contribuye a algún proyecto 🙌  
   <br>
-  <i>— Dante el Gamer 🟡</i>
+  <i>— IamDanteDev </i>
 </p>
