@@ -39,23 +39,6 @@ También hago contenido para entretenerte y conectar con mi gente. Siempre busca
 
 ---
 
-### 📊 Mis stats de GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=IamDanteDev&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" height="170">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IamDanteDev&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" height="170">
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=IamDanteDev&theme=radical&hide_border=true" alt="GitHub Streak" width="70%">
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=IamDanteDev&theme=radical&no-frame=true&margin-w=15&row=1" alt="Trophies" width="84%">
-</p>
-
----
-
 ### ⚙️ Stack tecnológico
 
 <p align="center">
@@ -71,24 +54,6 @@ También hago contenido para entretenerte y conectar con mi gente. Siempre busca
 
 ---
 
-### 🚀 Proyectos destacados
-
-<table>
-  <tr>
-    <td width="50%">
-      <h3 align="center">🎵 FNF Optimized Web</h3>
-      <p align="center">
-        <a href="https://IamDanteDev.github.io/FNF-optimized-web/" target="_blank">
-          <img src="https://img.shields.io/badge/▶️%20Jugar-FF69B4?style=for-the-badge">
-        </a>
-        <br>
-        Versión de Optimized Engine hecha en una web
-      </p>
-    </td>
-  </tr>
-</table>
-
----
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=IamDanteDev&color=FFD700&style=flat-square&label=👀+Visitas" alt="Visitas">
